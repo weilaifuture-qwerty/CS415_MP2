@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset"
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Pursuer.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/Mylevel.umap",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/EAIState.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Patrol_Path.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Debug.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/healthpack.uasset"
 			]
 		}
 	]
