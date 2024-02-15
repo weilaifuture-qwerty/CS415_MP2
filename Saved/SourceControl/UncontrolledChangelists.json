@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset"
+			]
+		}
+	]
+}
