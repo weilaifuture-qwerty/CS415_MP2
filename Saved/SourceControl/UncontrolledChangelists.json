@@ -10,9 +10,13 @@
 				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/Mylevel.umap",
 				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score.uasset",
 				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/EAIState.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/healthpack.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Mortar.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Bullet.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Blocker.uasset",
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/healthbar.uasset",
 				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Patrol_Path.uasset",
-				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Debug.uasset",
-				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/healthpack.uasset"
+				"/Users/weilai/Desktop/UIUC/CS415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Debug.uasset"
 			]
 		}
 	]
